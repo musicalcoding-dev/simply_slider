@@ -1,0 +1,55 @@
+@import url("https://fonts.googleapis.com/css2?family=Ballet:opsz@16..72&family=Bungee+Inline&family=Bungee+Outline&family=Dancing+Script&family=Dr+Sugiyama&family=Frijole&family=Miltonian&family=Monoton&family=Pacifico&display=swap");
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+:root {
+  background: rgb(43, 43, 43);
+  font-family: "Bungee inline", cursive;
+  color: white;
+  line-height: 1.4;
+}
+
+html,
+body {
+  height: 100%;
+  width: 100%;
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  flex-direction: column;
+  overflow: hidden;
+}
+
+.title {
+  display: flex;
+  gap: 1.5rem;
+  font-size: 2.25rem;
+}
+
+.green {
+}
+
+.blue {
+  color: rgb(37, 172, 235);
+}
+
+.pink {
+  color: rgb(253, 100, 125);
+}
+
+.step {
+  background-color: white;
+  padding: 0 5rem;
+  border-radius: 1rem;
+}
+
+.only {
+  position: absolute;
+  left: 0;
+  rotate: -15deg;
+  font-size: 2.5rem;
+}
