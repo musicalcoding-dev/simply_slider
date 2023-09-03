@@ -3,7 +3,7 @@
 ![Slider](./public/miniature.png)
 
 This repository serves as a starting point for users to fork and follow along with tutorials on the Musical Coding
-YouTube channel.
+YouTube channel
 
 ## Installation
 
